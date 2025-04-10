@@ -1,35 +1,50 @@
 ---
-title: Home
-layout: home
+title: Ellesse's Knowledge Base
+layout: default
+nav_order: 1
+description: A living knowledge base portfolio designed to showcase my skills in knowledge management, systems thinking, and technical storytelling.
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome to my Knowledge Base 🧠
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Hi, I'm **Ellesse** — a SaaS-savvy, self-proclaimed _technical griot_.
 
-More specifically, the created site:
+This digital help center showcases how I approach knowledge creation, storytelling through systems, and making complex technical ideas digestible for real people. It’s part portfolio, part personal wiki — all written, designed, and structured by me.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Whether you're a recruiter, hiring manager, or just curious, feel free to explore.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+---
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### 🧭 Quick Navigation
 
-To get started with creating a site, simply:
+- [Systems Audit](systems-audit.md): An in-depth, unofficial audit of a company or product I admire — featuring user journey analysis, UX insights, and retention recommendations.
+- [Tutorial Guide](tutorial-guide.md): A step-by-step documentation of how to use or implement a SaaS tool or workflow. Written in my signature style: clear, helpful, and a little bit spicy.
+- [Case Study: Tech Storytelling](case-study.md): A narrative-style case study showing how I translated stakeholder chaos into clarity, using documentation, diagrams, and empathy.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+---
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+### 🌱 Why This?
 
-----
+I’m making a bold career shift — but I bring *both* transferable soft skills *and* direct technical experience (from freelance work and SaaS implementation projects). I wanted a portfolio that reflects:
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+- My **love for learning and documentation**
+- My **ability to distill complexity**
+- My **deep respect for user education, support, and success**
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+---
+
+### 🛠️ What’s Under the Hood?
+
+This site is built using:
+- **Markdown**, GitHub, and the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme
+- Organized like an internal wiki or help center
+- Updated in real time as I evolve and add more examples
+
+---
+
+### 📬 Let's Connect
+
+If you're hiring or want to collaborate, I’d love to chat.  
+You can reach me at [ellessenyree@gmail.com] or on [LinkedIn](https://linkedin.com/in/[YOURHANDLE](https://www.linkedin.com/in/ellessegarvin).
+
+Thanks for stopping by — and stay curious 💡
