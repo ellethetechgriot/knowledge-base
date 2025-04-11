@@ -1,7 +1,7 @@
 ---
 title: Ellesse's Knowledge Base
+nav_order: 0
 layout: default
-nav_order: 1
 description: A living knowledge base portfolio designed to showcase my skills in knowledge management, systems thinking, and technical storytelling.
 ---
 
