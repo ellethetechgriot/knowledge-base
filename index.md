@@ -14,11 +14,11 @@ This digital help center showcases my ability to design, write, and manage docum
 Whether you're a recruiter, hiring manager, or just curious, feel free to explore.
 
 ---
-
+Example Shopify Documentation
 ### 🧭 Quick Navigation
 My Knowledge Base features:
 
-- [Example Shopify documentation]({{ site.baseurl }}/external-docs/shopify-user-guide)
+- [Example Shopify Documentation]({{ site.baseurl }}/external-docs/shopify-user-guide)
 - [AI how-to articles](ai-technical-writing/ai-prompt-engineering-guide.md)
 - [Narrative case studies](case-studies/chaos-to-clarity-case.md)
 - [Zendesk article samples](external-docs/zendesk-knowledge-articles.md)
