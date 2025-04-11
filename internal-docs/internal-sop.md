@@ -1,7 +1,7 @@
 ---
 title: Internal SOP
 parent: Internal Docs
-nav_order: 1
+nav_order: 2
 ---
 
 # Handling Subscription Cancellation Requests
