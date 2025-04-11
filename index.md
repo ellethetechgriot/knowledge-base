@@ -9,18 +9,21 @@ description: A living knowledge base portfolio designed to showcase my skills in
 
 Hi, I'm **Ellesse** — a SaaS-savvy, self-proclaimed _technical griot_.
 
-This digital help center showcases how I approach knowledge creation, storytelling through systems, and making complex technical ideas digestible for real people. It’s part portfolio, part personal wiki — all written, designed, and structured by me.
+This digital help center showcases my ability to design, write, and manage documentation systems — both internal and external —  making complex technical ideas digestible for all. It’s part portfolio, part personal wiki — all written, designed, and structured by me.
 
 Whether you're a recruiter, hiring manager, or just curious, feel free to explore.
 
 ---
 
 ### 🧭 Quick Navigation
+My Knowledge Base features:
 
-- [Systems Audit](systems-audit.md): An in-depth, unofficial audit of a company or product I admire — featuring user journey analysis, UX insights, and retention recommendations.
-- [Tutorial Guide](tutorial-guide.md): A step-by-step documentation of how to use or implement a SaaS tool or workflow. Written in my signature style: clear, helpful, and a little bit spicy.
-- [Case Study: Tech Storytelling](case-study.md): A narrative-style case study showing how I translated stakeholder chaos into clarity, using documentation, diagrams, and empathy.
-
+- [Example Shopify documentation](shopify-user-guide.md)
+- [AI how-to articles](ai-technical-writing/ai-prompt-engineering-guide.md)
+- [Narrative case studies](case-studies/chaos-to-clarity-case.md)
+- [Zendesk article samples](external-docs/zendesk-knowledge-articles.md)
+- [API documentation structure](external-docs/api-documentation.md)
+  
 ---
 
 ### 🌱 Why This?
