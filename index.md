@@ -18,7 +18,7 @@ Example Shopify Documentation
 ### 🧭 Quick Navigation
 My Knowledge Base features:
 
-- [Example Shopify Documentation]({{ site.baseurl }}/external-docs/shopify-user-guide)
+- [Example Shopify Documentation](https://ellethetechgriot.github.io/knowledge-base/external-docs/shopify-user-guide)
 - [AI how-to articles](ai-technical-writing/ai-prompt-engineering-guide.md)
 - [Narrative case studies](case-studies/chaos-to-clarity-case.md)
 - [Zendesk article samples](external-docs/zendesk-knowledge-articles.md)
