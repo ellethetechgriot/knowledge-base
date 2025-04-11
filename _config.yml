@@ -4,7 +4,7 @@ theme: just-the-docs
 search_enabled: true
 
 nav:
-  - title: UX Docs
+  - title: External Docs
     children:
       - title: Shopify User Guide
         url: /external-docs/shopify-user-guide
