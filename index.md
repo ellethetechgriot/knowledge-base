@@ -18,7 +18,7 @@ Whether you're a recruiter, hiring manager, or just curious, feel free to explor
 ### 🧭 Quick Navigation
 My Knowledge Base features:
 
-- [Example Shopify documentation](shopify-user-guide.md)
+- [Example Shopify documentation](external-docs/shopify-user-guide.md)
 - [AI how-to articles](ai-technical-writing/ai-prompt-engineering-guide.md)
 - [Narrative case studies](case-studies/chaos-to-clarity-case.md)
 - [Zendesk article samples](external-docs/zendesk-knowledge-articles.md)
