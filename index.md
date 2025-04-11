@@ -21,7 +21,7 @@ My Knowledge Base features:
 - [Example Shopify Documentation](https://ellethetechgriot.github.io/knowledge-base/external-docs/shopify-user-guide)
 - [AI how-to articles](https://ellethetechgriot.github.io/knowledge-base/ai-technical-writing/ai-prompt-engineering-guide)
 - [Narrative case studies](https://ellethetechgriot.github.io/knowledge-base/case-studies/chaos-to-clarity-case)
-- [Zendesk article samples](https://ellethetechgriot.github.io/knowledge-base/external-docs/zendesk-knowledge-article)
+- [Zendesk article samples](https://ellethetechgriot.github.io/knowledge-base/external-docs/zendesk-knowledge-articles)
 - [API documentation structure](https://ellethetechgriot.github.io/knowledge-base/external-docs/api-documentation)
   
 ---
