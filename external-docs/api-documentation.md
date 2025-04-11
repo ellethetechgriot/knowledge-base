@@ -1,7 +1,7 @@
 ---
 title: API Documentation
-nav_order: 1
 parent: External Docs
+nav_order: 1
 ---
 
 # Skio Subscriptions API
