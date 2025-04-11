@@ -1,7 +1,7 @@
 ---
 title: Shopify User Guide
-nav_order: 2
 parent: External Docs
+nav_order: 2
 ---
 
 # Shopify User Guide
