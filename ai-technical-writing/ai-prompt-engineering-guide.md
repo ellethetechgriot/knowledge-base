@@ -1,7 +1,7 @@
 ---
-title: AI Technical Writing 
-nav_order: 1
+title: Prompt Engineering Guide
 parent: AI + Technical Writing 
+nav_order: 1
 ---
 
 # Prompt Engineering Guide
