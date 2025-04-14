@@ -18,11 +18,20 @@ Example Shopify Documentation
 ### 🧭 Quick Navigation
 My Knowledge Base features:
 
-- [Example Shopify documentation](https://ellethetechgriot.github.io/knowledge-base/external-docs/shopify-user-guide)
-- [Mock SOP ](https://ellethetechgriot.github.io/knowledge-base/internal-docs/internal-sop)
-- [Zendesk Troubleshooting  article ](https://ellethetechgriot.github.io/knowledge-base/external-docs/zendesk-knowledge-articles)
-- [Sample API documentation](https://ellethetechgriot.github.io/knowledge-base/external-docs/api-documentation)
-  
+## Documentation Samples
+
+- [Shopify User Guide](https://ellethetechgriot.github.io/knowledge-base/external-docs/shopify-user-guide)  
+  Example external-facing eCommerce documentation with mock widget reference.
+
+- [Internal SOP](https://ellethetechgriot.github.io/knowledge-base/internal-docs/internal-sop)  
+  Sample internal standard operating procedure (SOP) for team workflows.
+
+- [Zendesk Troubleshooting Article](https://ellethetechgriot.github.io/knowledge-base/external-docs/zendesk-knowledge-articles)  
+  Example help center article designed for support agents and customer self-service.
+
+- [API Documentation](https://ellethetechgriot.github.io/knowledge-base/external-docs/api-documentation)  
+  Sample technical reference for developers integrating with a mock API.
+
 ---
 
 ### 🌱 Why This?
