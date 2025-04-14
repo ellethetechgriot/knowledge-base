@@ -114,10 +114,9 @@ Customize content using the visual editor or HTML.
 5. Insert the Repeatify widget snippet:
 
 ```liquid
-{% comment %}
-Render tag removed for Jekyll compatibility — was used for mock widget:
+{% raw %}
 {% render 'repeatify-widget', product: product %}
-{% endcomment %}
+{% endraw %}
 ```
 
 6. Save your changes.
