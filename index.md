@@ -14,7 +14,6 @@ This digital help center showcases my ability to design, write, and manage docum
 Whether you're a recruiter, hiring manager, or just curious, feel free to explore.
 
 ---
-Example Shopify Documentation
 ### 🧭 Quick Navigation
 My Knowledge Base features:
 
