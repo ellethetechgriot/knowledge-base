@@ -18,10 +18,10 @@ Example Shopify Documentation
 ### 🧭 Quick Navigation
 My Knowledge Base features:
 
-- [Example Shopify documentation](https://ellethetechgriot.github.io/knowledge-base/external-docs/shopify-user-guide.md)
-- [Mock SOP ](https://ellethetechgriot.github.io/knowledge-base/internal-docs/internal-sop.md)
+- [Example Shopify documentation](https://ellethetechgriot.github.io/knowledge-base/external-docs/shopify-user-guide)
+- [Mock SOP ](https://ellethetechgriot.github.io/knowledge-base/internal-docs/internal-sop)
 - [Zendesk Troubleshooting  article ](https://ellethetechgriot.github.io/knowledge-base/external-docs/zendesk-knowledge-articles)
-- [Sample API documentation](https://ellethetechgriot.github.io/knowledge-base/external-docs/api-documentation.md)
+- [Sample API documentation](https://ellethetechgriot.github.io/knowledge-base/external-docs/api-documentation)
   
 ---
 
