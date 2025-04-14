@@ -114,7 +114,9 @@ Customize content using the visual editor or HTML.
 5. Insert the Repeatify widget snippet:
 
 ```liquid
-{% include 'repeatify-widget', product: product %}
+{%- comment -%}
+{% render 'repeatify-widget', product: product %}
+{%- endcomment -%}
 ```
 
 6. Save your changes.
