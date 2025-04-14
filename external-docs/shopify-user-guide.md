@@ -113,9 +113,9 @@ Customize content using the visual editor or HTML.
 4. Locate the Add-to-Cart block
 5. Insert the Repeatify widget snippet:
 
-```liquid
+
   {% render 'repeatify-widget', product: product %}
-```
+
 
 6. Save your changes.
 
