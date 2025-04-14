@@ -28,7 +28,7 @@ This SOP applies to all Customer Success Representatives and Support Specialists
 
 ## Prerequisites
 
-- Access to Skio Admin Dashboard  
+- Access to Repeatify Admin Dashboard  
 - Access to Shopify Admin  
 - Familiarity with the Retention Offer Matrix  
 - Completion of Subscription Management Training  
@@ -112,7 +112,7 @@ Follow the appropriate retention path based on the customer's reason.
 
 If retention is unsuccessful:
 
-1. Go to **Subscriptions → Customer Details** in the Skio dashboard  
+1. Go to **Subscriptions → Customer Details** in the Repeatify dashboard  
 2. Search for the customer via email or subscription ID  
 3. Select **Actions → Cancel Subscription**  
 4. Add cancellation reason in the notes  
@@ -213,6 +213,6 @@ All Customer Success team members must:
 
 For support or clarification:
 
-- **Team Lead:** [retention-lead@skio.com](mailto:retention-lead@skio.com)  
-- **Process Owner:** [customer.experience@skio.com](mailto:customer.experience@skio.com)  
+- **Team Lead:** [retention-lead@repeatify.com](mailto:retention-lead@repeatify.com)  
+- **Process Owner:** [customer.experience@repeatify.com](mailto:customer.experience@repeatify.com)  
 
