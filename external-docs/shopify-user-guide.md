@@ -115,7 +115,7 @@ Customize content using the visual editor or HTML.
 
 {\% render 'repeatify-widget', product: product \%}
 
-6\. Save your changes.
+   6. Save your changes.
 
 ---
 
