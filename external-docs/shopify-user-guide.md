@@ -114,7 +114,7 @@ Customize content using the visual editor or HTML.
 5. Insert the Repeatify widget snippet:
 
 
-  {% mockrender 'repeatify-widget', product: product %}
+  {% r.ender 'repeatify-widget', product: product %}
 
 
 6. Save your changes.
